@@ -288,6 +288,3 @@ To run the automation on a new server:
 chmod +x bootstrap.sh
 ./bootstrap.sh
 
-Apakah ada bagian penjelasan teknik atau komando di atas yang ingin disesuaikan lagi?
-
-```
